@@ -26,3 +26,9 @@ Botões para favoritar filmes e criar uma lista personalizada.
 WireFrame - Catálogo de Filmes
 <img src="public/images/wireframe_cfilm.png" alt="Wireframe"/>
 Projeto que consiste em uma página web onde será apresentado um catálogo de filmes. Com uma logo, barra de pesquisa, um menu para facilitar a navegação por gênero, data de lançamento, últimas novidades sobre filmes e um catálogo onde serão apresentados os novos lançamentos.
+
+**Resultado da minha Home Page**
+- Aba Principal
+<img src="public/images/main_page.jpg" alt="Wireframe"/>
+- Aba de Sugestão
+<img src="public/images/sugest_page.jpg" alt="Wireframe"/>
