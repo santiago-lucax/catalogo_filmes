@@ -27,6 +27,9 @@ body {
 
 .cabecalho__barra-navegacao {
     margin-right: 2rem;
+    display: flex;
+    align-items: center;
+    gap: 2rem;
 }
 
 .cabecalho__barra-navegacao ul {
@@ -57,4 +60,20 @@ body {
     color: #F1EFEC;
     text-decoration: none;
     text-shadow: 1px 1px 1px #575757;
+}
+
+.duvida {
+    width: 2rem;
+    height: 2rem;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #123458;
+    color: #D4C9BE;
+}
+
+.duvida a {
+    text-decoration: none;
+    color: #F1EFEC;
 }

@@ -58,3 +58,57 @@
     gap: 1rem;
     text-align: center;
 }
+
+/*Partes da aba sugestões*/
+
+.conteudo-sugestao {
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+.conteudo-sugestao__form {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 3rem;
+    padding: 0.5rem;
+    background-color: #123458;
+    width: 500px;
+    height: 500px;
+    border-radius: 1rem;
+    box-shadow: 5px 5px 1px rgba(0, 0, 0, 0.13);
+}
+
+.conteudo-sugestao__form h2 {
+    font-size: 3rem;
+    color: #F1EFEC;
+}
+
+.conteudo-sugestao__form p {
+    color: #F1EFEC;
+    text-align: center;
+    padding: 1rem;
+}
+
+.form__sugestao {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.form__sugestao input {
+    width: 16rem;
+    height: 3rem;
+    border-radius: 50px;
+    border: 0;
+    padding: 15px;
+}
+
+.form__sugestao button {
+    width: 7rem;
+    height: 3rem;
+    border-radius: 50px;
+    border: 0;
+}
