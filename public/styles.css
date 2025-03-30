@@ -2,3 +2,51 @@
     margin: 0;
     padding: 0;
 }
+
+body {
+    background-color: #D4C9BE;
+}
+
+.cabecalho {
+    background-color: #030303;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 35px;
+    padding: 15px;
+}
+
+.cabecalho__logo {
+    font-size: 1.5rem;
+    color: #F1EFEC;
+}
+
+.cabecalho__barra-navegacao ul{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    list-style: none;
+}
+
+.cabecalho__barra-navegacao ul input {
+    width: 24rem;
+    height: 1rem;
+    border-radius: 15px;
+    padding: 0.5rem;
+}
+
+.cabecalho__barra-navegacao li {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 15px;
+    width: 4rem;
+    background-color: #123458;
+    padding: 5px;
+}
+
+.cabecalho__barra-navegacao li a{
+    color: #F1EFEC;
+    text-decoration: none;
+    text-shadow: 1px 1px 1px #575757;
+}

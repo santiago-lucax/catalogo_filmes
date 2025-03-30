@@ -24,5 +24,5 @@ Botões para favoritar filmes e criar uma lista personalizada.
 - Botão de “Curtir” ou “Favoritar” para adicionar à lista personalizada.
 
 WireFrame - Catálogo de Filmes
-<img src="images/wireframe_cfilm.png" alt="Wireframe"/>
+<img src="public/images/wireframe_cfilm.png" alt="Wireframe"/>
 Projeto que consiste em uma página web onde será apresentado um catálogo de filmes. Com uma logo, barra de pesquisa, um menu para facilitar a navegação por gênero, data de lançamento, últimas novidades sobre filmes e um catálogo onde serão apresentados os novos lançamentos.
