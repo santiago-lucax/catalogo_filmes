@@ -29,6 +29,22 @@ Projeto que consiste em uma página web onde será apresentado um catálogo de f
 
 **Resultado da minha Home Page**
 - Aba Principal
-<img src="public/images/main_page.jpg" alt="Wireframe"/>
+<img src="public/assets/main_page.jpg" alt=""/>
 - Aba de Sugestão
-<img src="public/images/sugest_page.jpg" alt="Wireframe"/>
+<img src="public/assets/sugest_page.jpg" alt=""/>
+
+**Responsividade sem Bootstrap**
+- Desktop
+<img src="public/assets/desktop.jpg" alt=""/>
+- Desktop Médio
+<img src="public/assets/medium.png" alt=""/>
+- Mobile
+<img src="public/assets/small.png" alt=""/>
+
+**Responsividade com Bootstrap**
+- Desktop
+<img src="public/assets/bdesktop.jpg" alt=""/>
+- Desktop Médio
+<img src="public/assets/bmedium.png" alt=""/>
+- Mobile
+<img src="public/assets/bsmall.png" alt=""/>
